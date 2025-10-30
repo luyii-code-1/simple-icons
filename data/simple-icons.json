@@ -804,6 +804,11 @@
 		"source": "https://www.animalplanet.com"
 	},
 	{
+		"title": "Anime.js",
+		"hex": "000000",
+		"source": "https://github.com/simple-icons/simple-icons/pull/13197#issuecomment-2900606090"
+	},
+	{
 		"title": "AnkerMake",
 		"hex": "88F387",
 		"source": "https://www.ankermake.com"
@@ -898,6 +903,15 @@
 	{
 		"title": "Apache Ant",
 		"hex": "A81C7D",
+		"source": "https://apache.org/logos",
+		"guidelines": "https://www.apache.org/foundation/marks",
+		"license": {
+			"type": "Apache-2.0"
+		}
+	},
+	{
+		"title": "Apache Avro",
+		"hex": "30638E",
 		"source": "https://apache.org/logos",
 		"guidelines": "https://www.apache.org/foundation/marks",
 		"license": {
@@ -1439,7 +1453,7 @@
 	},
 	{
 		"title": "AssemblyScript",
-		"hex": "007AAC",
+		"hex": "007ACC",
 		"source": "https://www.assemblyscript.org"
 	},
 	{
@@ -2126,8 +2140,9 @@
 	},
 	{
 		"title": "Bluesky",
-		"hex": "0285FF",
-		"source": "https://github.com/FortAwesome/Font-Awesome/issues/19810#issuecomment-1854999604",
+		"hex": "1185FE",
+		"source": "https://bsky.social/about/blog/press-faq",
+		"guidelines": "https://bsky.social/about/blog/press-faq",
 		"aliases": {
 			"aka": [
 				"bsky"
@@ -3547,6 +3562,11 @@
 		"hex": "1E1E28",
 		"source": "https://www.coolermaster.com/branding",
 		"guidelines": "https://www.coolermaster.com/branding"
+	},
+	{
+		"title": "Coolify",
+		"hex": "6B16ED",
+		"source": "https://github.com/coollabsio/coolify/blob/ac1d98f6035caff10f36fa10508326b4791dec07/public/coolify-logo-monochrome.svg"
 	},
 	{
 		"title": "Copa Airlines",
@@ -5451,6 +5471,12 @@
 		"guidelines": "https://www.firstinspires.org/brand"
 	},
 	{
+		"title": "Fish Audio",
+		"hex": "9B90E8",
+		"source": "https://docs.fish.audio/brand",
+		"guidelines": "https://docs.fish.audio/brand"
+	},
+	{
 		"title": "fish shell",
 		"hex": "34C534",
 		"source": "https://github.com/fish-shell/fish-site/blob/1364b2e794c9aba7492c8962bae0f7fbe4886317/artwork/ascii%20fish.eps",
@@ -5973,6 +5999,14 @@
 		"hex": "000000",
 		"source": "https://creative.garmin.com/styleguide/logo/",
 		"guidelines": "https://creative.garmin.com/styleguide/brand/"
+	},
+	{
+		"title": "Garuda Linux",
+		"hex": "8839EF",
+		"source": "https://gitlab.com/garuda-linux/themes-and-settings/artwork/garuda-icons/-/blob/aab26625fe01479ebc3a252103fca723baca9e88/usr/share/icons/garuda/distributor-logo-garuda-outline.svg",
+		"license": {
+			"type": "GPL-3.0-only"
+		}
 	},
 	{
 		"title": "Gatling",
@@ -6815,6 +6849,11 @@
 		"title": "GreenSock",
 		"hex": "88CE02",
 		"source": "https://greensock.com"
+	},
+	{
+		"title": "GreptimeDB",
+		"hex": "8322FF",
+		"source": "https://github.com/GreptimeTeam/greptimedb-grafana-datasource/blob/ead7c1dd1a589c313fb9e3635bd0a9fee93ee795/src/img/greptimedb_logo.svg"
 	},
 	{
 		"title": "Grid.ai",
@@ -8970,6 +9009,12 @@
 		"source": "https://commons.wikimedia.org/wiki/File:L_Equipe_Logo.svg"
 	},
 	{
+		"title": "LabEx",
+		"hex": "2E7EEE",
+		"source": "https://labex.io",
+		"guidelines": "https://labex.io/questions/labex-logo-guidelines-162947"
+	},
+	{
 		"title": "LabVIEW",
 		"hex": "FFDB00",
 		"source": "https://forums.ni.com/t5/NI-Partner-Network/New-Partner-Co-Marketing-Style-Guide/ba-p/3786987",
@@ -9437,6 +9482,11 @@
 		"guidelines": "https://www.liquibase.com/brand"
 	},
 	{
+		"title": "ListenHub",
+		"hex": "000000",
+		"source": "https://listenhub.ai"
+	},
+	{
 		"title": "listmonk",
 		"hex": "0055D4",
 		"source": "https://listmonk.app"
@@ -9472,6 +9522,12 @@
 		"title": "LiveJournal",
 		"hex": "00B0EA",
 		"source": "https://www.livejournal.com"
+	},
+	{
+		"title": "LiveKit",
+		"hex": "FFFFFF",
+		"source": "https://livekit.io/brand",
+		"guidelines": "https://livekit.io/brand"
 	},
 	{
 		"title": "Livewire",
@@ -9603,7 +9659,7 @@
 	},
 	{
 		"title": "Lua",
-		"hex": "2C2D72",
+		"hex": "000080",
 		"source": "https://www.lua.org/images/",
 		"guidelines": "https://www.lua.org/images/"
 	},
@@ -9652,6 +9708,11 @@
 		"title": "Lunacy",
 		"hex": "179DE3",
 		"source": "https://icons8.com/lunacy"
+	},
+	{
+		"title": "Luogu",
+		"hex": "5B9BD5",
+		"source": "https://fecdn.luogu.com.cn/columba/static.325908fec383795b.logo-single-color.svg"
 	},
 	{
 		"title": "Lutris",
@@ -11855,6 +11916,12 @@
 		"source": "https://github.com/ethereum-optimism/brand-kit/blob/71ea3bb1ea24e87968804b388e99bed0b52e2a4b/assets/svg/Profile-Logo.svg"
 	},
 	{
+		"title": "Optuna",
+		"hex": "002C76",
+		"source": "https://github.com/optuna/optuna-dashboard/blob/b45523d328ef4796306dd64a93f27ff37c9a36b7/jupyterlab/img/optuna_logo.svg",
+		"guidelines": "https://optuna.org"
+	},
+	{
 		"title": "Orange",
 		"hex": "FF7900",
 		"source": "https://brand.orange.com",
@@ -12488,6 +12555,11 @@
 		"hex": "FFF000",
 		"source": "https://www.pingdom.com/resources/brand-assets/",
 		"guidelines": "https://www.pingdom.com/resources/brand-assets/"
+	},
+	{
+		"title": "Pinia",
+		"hex": "FFD859",
+		"source": "https://www.figma.com/design/0GQLuLctSsqYOVJZGEf7WR/Pinia-tests"
 	},
 	{
 		"title": "pino",
@@ -14623,7 +14695,7 @@
 	},
 	{
 		"title": "Scratch",
-		"hex": "4D97FF",
+		"hex": "855CD6",
 		"source": "https://github.com/LLK/scratch-link/blob/027e3754ba6db976495e905023d5ac5e730dccfc/Assets/Windows/SVG/Windows%20Tray%20400x400.svg"
 	},
 	{
@@ -15057,6 +15129,11 @@
 		"source": "https://github.com/GoogleContainerTools/skaffold/blob/9376dc047aded2adb188f599267fbb829a327dfd/logo/skaffold.eps"
 	},
 	{
+		"title": "Skeleton",
+		"hex": "000000",
+		"source": "https://github.com/skeletonlabs/skeleton/blob/e4c76d60c0738a266c305e44c5dc5944413bf8db/sites/skeleton.dev/src/icons/skeleton.svg"
+	},
+	{
 		"title": "Sketch",
 		"hex": "F7B500",
 		"source": "https://www.sketch.com/about-us/#press",
@@ -15147,6 +15224,11 @@
 		"title": "Smashing Magazine",
 		"hex": "E85C33",
 		"source": "https://www.smashingmagazine.com"
+	},
+	{
+		"title": "Smoothcomp",
+		"hex": "000000",
+		"source": "https://smoothcomp.com"
 	},
 	{
 		"title": "SMRT",
@@ -17443,6 +17525,12 @@
 		"source": "https://unsplash.com"
 	},
 	{
+		"title": "Unstop",
+		"hex": "1C4980",
+		"source": "https://unstop.com/our-partners/branding-guidelines",
+		"guidelines": "https://unstop.com/our-partners/branding-guidelines"
+	},
+	{
 		"title": "Untappd",
 		"hex": "FFC000",
 		"source": "https://untappd.com"
@@ -17809,6 +17897,11 @@
 		"source": "https://merchantsignageeu.visa.com/product.asp?dptID=696"
 	},
 	{
+		"title": "Visual Paradigm",
+		"hex": "CC3333",
+		"source": "https://forums.visual-paradigm.com/c/general-questions-discussions/9"
+	},
+	{
 		"title": "visx",
 		"hex": "FF1231",
 		"source": "https://airbnb.io/visx"
@@ -17968,6 +18061,11 @@
 		"license": {
 			"type": "MIT"
 		}
+	},
+	{
+		"title": "VueUse",
+		"hex": "41B883",
+		"source": "https://github.com/vueuse/vueuse/blob/b2aa062cfafc448d6942cee3916b695f032aceef/packages/public/favicon.svg"
 	},
 	{
 		"title": "Vulkan",
